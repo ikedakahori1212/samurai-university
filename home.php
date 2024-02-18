@@ -506,7 +506,6 @@ $posts = get_posts($args);
 
    <script src="<?php echo get_template_directory_uri(); ?>/styles/bootstrap4/bootstrap.min.js"></script>
 
-
   <script type="text/javascript">
 
     $(".carousel").carousel();
